@@ -1,14 +1,14 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
-    "outDir": "out",
-    "sourceMap": true,
-    "baseUrl": "./",
-    "paths": {
-      "*": [
-        "types/*"
-      ]
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "out",
+        "sourceMap": true,
+        "baseUrl": "./",
+        "paths": {
+            "*": ["types/*"]
+        },
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
     }
-  }
 }
