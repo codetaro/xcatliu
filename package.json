@@ -1,0 +1,18 @@
+{
+  "name": "xcatliu",
+  "version": "1.0.0",
+  "description": "https://ts.xcatliu.com/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^3.3.31",
+    "@types/node": "^12.12.5",
+    "eslint": "^6.6.0",
+    "moment": "^2.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcatliu",
+  "license": "CC-BY-NC-4.0"
+}

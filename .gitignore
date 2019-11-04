@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/src/advanced/enum.js
+/src/advanced/ts-class.js
